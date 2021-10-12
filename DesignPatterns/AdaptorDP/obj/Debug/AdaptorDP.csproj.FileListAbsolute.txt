@@ -1,0 +1,7 @@
+D:\Corporate\Vinsys\JK Tech\Batch-2\Design Patterns\Demos\DesignPatterns-Demo\DesignPatterns\AdaptorDP\bin\Debug\AdaptorDP.exe.config
+D:\Corporate\Vinsys\JK Tech\Batch-2\Design Patterns\Demos\DesignPatterns-Demo\DesignPatterns\AdaptorDP\bin\Debug\AdaptorDP.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\Design Patterns\Demos\DesignPatterns-Demo\DesignPatterns\AdaptorDP\bin\Debug\AdaptorDP.pdb
+D:\Corporate\Vinsys\JK Tech\Batch-2\Design Patterns\Demos\DesignPatterns-Demo\DesignPatterns\AdaptorDP\obj\Debug\AdaptorDP.csprojAssemblyReference.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\Design Patterns\Demos\DesignPatterns-Demo\DesignPatterns\AdaptorDP\obj\Debug\AdaptorDP.csproj.CoreCompileInputs.cache
+D:\Corporate\Vinsys\JK Tech\Batch-2\Design Patterns\Demos\DesignPatterns-Demo\DesignPatterns\AdaptorDP\obj\Debug\AdaptorDP.exe
+D:\Corporate\Vinsys\JK Tech\Batch-2\Design Patterns\Demos\DesignPatterns-Demo\DesignPatterns\AdaptorDP\obj\Debug\AdaptorDP.pdb

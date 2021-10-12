@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{6AF465AC-BC80-4796-A097-8178724272E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDP", "AbstractFactoryDP\AbstractFactoryDP.csproj", "{9371F53D-8AE9-43DE-9BF6-98751D790DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptorDP", "AdaptorDP\AdaptorDP.csproj", "{5F614173-0234-4E08-894B-77F970D899A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6AF465AC-BC80-4796-A097-8178724272E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AF465AC-BC80-4796-A097-8178724272E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AF465AC-BC80-4796-A097-8178724272E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9371F53D-8AE9-43DE-9BF6-98751D790DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9371F53D-8AE9-43DE-9BF6-98751D790DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9371F53D-8AE9-43DE-9BF6-98751D790DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9371F53D-8AE9-43DE-9BF6-98751D790DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F614173-0234-4E08-894B-77F970D899A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F614173-0234-4E08-894B-77F970D899A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F614173-0234-4E08-894B-77F970D899A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F614173-0234-4E08-894B-77F970D899A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
