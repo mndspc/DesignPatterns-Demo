@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDP", "Abstra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdaptorDP", "AdaptorDP\AdaptorDP.csproj", "{5F614173-0234-4E08-894B-77F970D899A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorDP", "IteratorDP\IteratorDP.csproj", "{77CC4245-175D-4EB3-9E26-BD91F35D4EB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5F614173-0234-4E08-894B-77F970D899A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F614173-0234-4E08-894B-77F970D899A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F614173-0234-4E08-894B-77F970D899A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CC4245-175D-4EB3-9E26-BD91F35D4EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CC4245-175D-4EB3-9E26-BD91F35D4EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CC4245-175D-4EB3-9E26-BD91F35D4EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CC4245-175D-4EB3-9E26-BD91F35D4EB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
